@@ -729,14 +729,14 @@ export const presetPlugins: PluginInfo[] = [
         customInfo: "Custom information specific to Example Plugin 1."
     },
     {
-        name: "NeoFetch (VenFetch)",
+        name: "venfetch",
         filename: "venfetch",
         filesearch: "venfetch",
-        downloadUrl: "https://github.com/WeAreCrews/venfetch/archive/refs/heads/main.zip",
-        downloadFiles: ["index.tsx"],
+        downloadUrl: "https://git.nin0.dev/userplugins/venfetch/archive/main.zip",
+        downloadFiles: ["index.ts"],
         description: "Jealous of your Arch-using friends that seem to have no hobby beyond showing their neofetch? This can easily be solved thanks to venfetch, a plugin allowing you to show your superiority over your vanilla discord using friends. Simply enable the plugin and run /venfetch in a chat. It will send a neofetch-style message containing every useful detail about your Vencord install!",
-        tags: ["neofetch"],
-        dateAdded: "1734209767",
+        tags: ["venfetch"],
+        dateAdded: "1734209769",
         options: {},
         customInfo: "Custom information specific to Example Plugin 1."
     },
