@@ -1,4 +1,8 @@
-**UPDATE: Added all plugins from [#unofficial-plugins](https://discordapp.com/channels/1015060230222131221/1256395889354997771) (except nin0's because his repos are down) and fixed all previously broken plugins**
+# Fork of pluginRepo 
+> [!NOTE]  
+> Thats only test version, maybe creating pull requests to original.
+
+**UPDATE: Added all plugins from [#unofficial-plugins](https://discordapp.com/channels/1015060230222131221/1256395889354997771) and fixed all previously broken plugins**
 
 # Plugin Repo (Vencord)
 This is a Vencord plugin that adds a Plugin Repo to settings so you can search for and download third-party Vencord plugins directly within Discord, just like BetterDiscord's plugin repo. This eliminates the need to manually search for and download third-party plugins from external sources, making the process a lot more user-friendly and convenient.
